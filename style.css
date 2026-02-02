@@ -79,8 +79,11 @@ h1 {
 p {
     font-size: 40px;
 }
+h1, p, .final-text {
+    color: #000000;
+}
 h1, p {
-    color: #8b2d5c;
+    color: #040404;
 }
 
 
