@@ -141,6 +141,6 @@ display: inline-block;
     text-align: center;
     display: inline-block;
     padding: 10px 20px;
-    background-color: rgba(162, 145, 145, 0.5);
+    background-color: rgb(241, 227, 227);
     border-radius: 12px;
 }
